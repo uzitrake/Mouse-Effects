@@ -1,11 +1,11 @@
-# Codrops Sketches
-A collection of demo variations, ideas, raw concepts &amp; experiments. 
+# Sketches
 
-[Sketches archive](https://tympanus.net/codrops/sketches/)
+A collection of demo variations, ideas, raw concepts &amp; experiments.
 
 ## Demos
+
 <details open>
-  <summary><b>2022</b></summary>
+  <summary><b>2023</b></summary>
   
   - [Sketch 001: Repetition Hover Effect (Round)](https://tympanus.net/Sketches/001-repetition-hover-effect-round/)
   - [Sketch 002: Repetition Hover Effect (Square)](https://tympanus.net/Sketches/002-repetition-hover-effect-square/)
@@ -33,26 +33,17 @@ A collection of demo variations, ideas, raw concepts &amp; experiments.
 </details>
 
 <details open>
-  <summary><b>2023</b></summary>
+  <summary><b>2024</b></summary>
 
-  - [Sketch 024: Infinite Loop Scrolling](https://tympanus.net/Sketches/024-infinite-loop-scrolling/)
-  - [Sketch 025: Infinite Loop Scrolling (Horizontal)](https://tympanus.net/Sketches/025-infinite-loop-scrolling-horizontal/)
-  - [Sketch 026: Infinite Loop Scrolling (Animation)](https://tympanus.net/Sketches/026-infinite-loop-scrolling-animation/)
-  - [Sketch 027: Infinite Loop Scrolling (ScaleY and Opacity)](https://tympanus.net/Sketches/027-infinite-loop-scrolling-animation-2/)
-  - [Sketch 028: Infinite Loop Scrolling (ScaleX and ScaleY)](https://tympanus.net/Sketches/028-infinite-loop-scrolling-animation-3/)
-  - [Sketch 029: Infinite Loop Scrolling (3D)](https://tympanus.net/Sketches/029-infinite-loop-scrolling-animation-4/)
+- [Sketch 024: Infinite Loop Scrolling](https://tympanus.net/Sketches/024-infinite-loop-scrolling/)
+- [Sketch 025: Infinite Loop Scrolling (Horizontal)](https://tympanus.net/Sketches/025-infinite-loop-scrolling-horizontal/)
+- [Sketch 026: Infinite Loop Scrolling (Animation)](https://tympanus.net/Sketches/026-infinite-loop-scrolling-animation/)
+- [Sketch 027: Infinite Loop Scrolling (ScaleY and Opacity)](https://tympanus.net/Sketches/027-infinite-loop-scrolling-animation-2/)
+- [Sketch 028: Infinite Loop Scrolling (ScaleX and ScaleY)](https://tympanus.net/Sketches/028-infinite-loop-scrolling-animation-3/)
+- [Sketch 029: Infinite Loop Scrolling (3D)](https://tympanus.net/Sketches/029-infinite-loop-scrolling-animation-4/)
 </details>
-
 
 ## Credits
 
 - Images from [Unsplash](https://unsplash.com/)
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
-
-## License
-[MIT](LICENSE)
-
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+- [Codrops](http://www.codrops.com)
