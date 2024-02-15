@@ -46,4 +46,5 @@ A collection of demo variations, ideas, raw concepts &amp; experiments.
 ## Credits
 
 - Images from [Unsplash](https://unsplash.com/)
-- [Codrops](http://www.codrops.com)
+- Images from [Unsplash](https://www.gettyimages.com/)
+
